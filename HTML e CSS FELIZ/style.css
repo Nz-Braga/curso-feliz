@@ -1,0 +1,36 @@
+header {
+    display: inline-flex;
+    background-color: rgb(2, 114, 77);
+    padding-top: 10px;
+}
+img {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.menu-top {
+padding-bottom: 20px;
+}
+
+a {
+    color: blanchedalmond;
+    font-size: 20px;
+    font-family: "Josefin Sans",sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+
+#btn {
+    display: inline-block;
+    background-color: rgb(65, 65, 129);
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px  0 black;
+
+}
+
