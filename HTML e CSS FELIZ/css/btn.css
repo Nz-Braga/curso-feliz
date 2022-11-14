@@ -1,0 +1,19 @@
+
+.btn {
+    display: inline-block;
+    background-color: rgb(65, 65, 129);
+    box-shadow: 5px 5px black;
+    padding: 18px 20px;
+    margin-right: 0;
+    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+    font-size: 20px;
+    color: #fff;
+    font-family: "Josefin Sans",sans-seri ;
+    
+
+}
+
+.btn:hover {
+    transform: scale(01.08);
+}
+

@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Josefin Sans';
+    font-size: 40px;    
+    color: #34B080;
+    text-shadow: 5px 5px 0 #000;
+    padding-bottom: 10px;
+    text-align: center;
+    
+}
+
+h2 {
+    font-family: 'Josefin Sans';
+    text-align: center;
+}
