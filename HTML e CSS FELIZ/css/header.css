@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    font-family: "Josefin Sans", 'sans seri' ;
+    text-align: right;
+    justify-content: space-around;
+    background-color: rgb(2, 114, 77);
+    border-bottom: 10px solid #000;
+    padding: 10px 20px;
+
+    }

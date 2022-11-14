@@ -1,6 +1,7 @@
 
 .btn {
-    display: inline-block;
+    display: inline-flex;
+    font-family: "Josefin Sans", 'sans seri' ;
     background-color: rgb(65, 65, 129);
     box-shadow: 5px 5px black;
     padding: 18px 20px;
@@ -8,7 +9,7 @@
     transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
     font-size: 20px;
     color: #fff;
-    font-family: "Josefin Sans",sans-seri ;
+    text-decoration: none;
     
 
 }
