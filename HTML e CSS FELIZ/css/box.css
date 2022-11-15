@@ -11,3 +11,6 @@
     margin-bottom: 28px;
 }
 
+.box:hover {
+    transform: scale(01.08);
+}

@@ -1,13 +1,16 @@
 .banner {
-    background-image: url(../img/Captura\ de\ tela\ 2022-01-21\ 011801.jpg);
+    background-image: url(../img/background.jpg);
+    background-color: #02462c;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center ;
     background-size: 100%;
+    background-attachment: fixed;
     height: 800px;
     border-bottom: 10px solid #000;
     padding-top: 50px ;
     padding-left: 80px ;
     box-sizing: border-box;
+    
 }
 
 

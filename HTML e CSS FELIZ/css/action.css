@@ -15,3 +15,7 @@
     width: 10px;
     margin-right: 10px;
 }
+
+.action:hover {
+    transform: scale(01.08);
+}
