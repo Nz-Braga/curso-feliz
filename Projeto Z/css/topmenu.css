@@ -1,0 +1,13 @@
+.main-header {
+    background-image: url();
+}
+
+.topmenu .logotop {
+    display: flex;
+    justify-content: left;
+}
+
+.topmenu .menutop {
+    display: flex;
+    justify-content: right;
+}

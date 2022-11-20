@@ -10,13 +10,13 @@
 
 .topavatar {
     display: flex;
-  justify-content: left;
+   justify-content: left;
   
 
 }
 
 .topmenu {
     display: flex;
-  justify-content: right;
+    justify-content: right;
   
 }

@@ -1,0 +1,24 @@
+.main-title {
+    font-family: 'Josefin Sans';
+    font-size: 60px;    
+    color: #34B080;
+    text-shadow: 5px 5px 0 #000;
+    padding-bottom: 10px;
+    text-align: center;
+        
+}
+
+.main-subtitle {
+    font-size: 30px;
+    font-family: 'Josefin Sans';
+    text-align: center;
+    text-shadow: 2px 2px #7ac0a5;
+
+}
+
+.title.-second {
+    color: #000;
+    text-shadow: #000;
+    text-align: center;
+
+}
